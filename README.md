@@ -1,5 +1,6 @@
-# 👋 Saulo da Silva Santiago
-Entrepreneur driven by innovation, with a sharp ability to adapt and solve complex problems.
+**Hi** 👋,
+
+I’m an entrepreneur driven by innovation, with a sharp ability to adapt and solve complex problems.
 I believe discipline is the silent fuel behind the greatest victories — and that life should be lived with purpose and intensity every single day.
 
 > **Discipline: the silent fuel of the greatest victories.**
