@@ -1,6 +1,4 @@
 # Saulo da Silva Santiago
-
-## Sobre mim
 Empreendedor apaixonado por inovação, com forte capacidade de adaptação e resolução de problemas. Acredito que a disciplina é o combustível silencioso das maiores vitórias, e que a vida merece ser vivida intensamente todos os dias.
 
 ## Competências Principais
