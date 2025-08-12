@@ -1,21 +1,17 @@
 # 👋 Saulo da Silva Santiago
-Entrepreneur passionate about innovation, with strong adaptability and problem-solving skills.  
-I believe that discipline is the silent fuel of the greatest victories – and that life deserves to be lived intensely every day.
+Entrepreneur driven by innovation, with a sharp ability to adapt and solve complex problems.
+I believe discipline is the silent fuel behind the greatest victories — and that life should be lived with purpose and intensity every single day.
+
+> **Discipline: the silent fuel of the greatest victories.**
 
 ## 🚀 Main Skills
-- **Entrepreneurship**: Turning ideas into reality and transforming opportunities into real businesses.
-- **Adaptability**: Ability to deal with change and dynamic environments.
-- **Problem Solving**: Analytical thinking and focus on creative, efficient solutions.
+- **Entrepreneurship**: Bringing ideas to life and turning opportunities into thriving businesses.
+- **Adaptability**: Thriving in fast-changing, dynamic environments.
+- **Problem Solving**: Combining analytical thinking with creative, efficient solutions.
 
 ## 🎯 Interests
-- **Sports & Healthy Living**: Inspiring healthy habits through sports and well-being.
-- **Technology**: Special interest in innovative solutions to improve processes and make everyday life easier.
+- **Sports & Healthy Living**: Promoting healthy habits through sports and well-being.
+- **Technology & AI**: Creating innovative solutions to optimize processes and make life easier.
 
-## 💡 Additional Information
-- **Blu**: Company where I work and have built successful cases.  
-  [🔗 Blu on GitHub](https://github.com/Pagnet)
-- **LinkedIn**:  
-  [🔗 saulodasilvasantiago](https://www.linkedin.com/in/saulodasilvasantiago/)
-
-## 🗝️ Personal Quote  
-> **Discipline: the silent fuel of the greatest victories.**
+---
+**📬 Let’s connect on LinkedIn:** [🔗 saulodasilvasantiago](https://www.linkedin.com/in/saulodasilvasantiago/)
