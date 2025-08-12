@@ -1,18 +1,21 @@
-# Saulo da Silva Santiago
-Empreendedor apaixonado por inovação, com forte capacidade de adaptação e resolução de problemas. Acredito que a disciplina é o combustível silencioso das maiores vitórias, e que a vida merece ser vivida intensamente todos os dias.
+# 👋 Saulo da Silva Santiago
+Entrepreneur passionate about innovation, with strong adaptability and problem-solving skills.  
+I believe that discipline is the silent fuel of the greatest victories – and that life deserves to be lived intensely every day.
 
-## Competências Principais
-- **Empreendedorismo:** Experiência em tirar ideias do papel e transformar oportunidades em negócios reais.
-- **Adaptabilidade:** Facilidade para lidar com mudanças e ambientes dinâmicos.
-- **Resolução de Problemas:** Pensamento analítico e foco em soluções criativas e eficientes.
+## 🚀 Main Skills
+- **Entrepreneurship**: Turning ideas into reality and transforming opportunities into real businesses.
+- **Adaptability**: Ability to deal with change and dynamic environments.
+- **Problem Solving**: Analytical thinking and focus on creative, efficient solutions.
 
-## Interesses
-- **Esporte e Vida Saudável:** Busco inspirar hábitos saudáveis através da prática esportiva e do bem-estar.
-- **Tecnologia:** Especial interesse em soluções inovadoras para melhorar processos e facilitar o dia a dia.
+## 🎯 Interests
+- **Sports & Healthy Living**: Inspiring healthy habits through sports and well-being.
+- **Technology**: Special interest in innovative solutions to improve processes and make everyday life easier.
 
-## Informações Adicionais
-- **Blu:** Empresa onde atuo e construí cases de sucesso. Conheça mais em [Blu no GitHub](https://github.com/Pagnet)
-- **LinkedIn:** [saulodasilvasantiago](https://www.linkedin.com/in/saulodasilvasantiago/)
+## 💡 Additional Information
+- **Blu**: Company where I work and have built successful cases.  
+  [🔗 Blu on GitHub](https://github.com/Pagnet)
+- **LinkedIn**:  
+  [🔗 saulodasilvasantiago](https://www.linkedin.com/in/saulodasilvasantiago/)
 
-## Frase Pessoal
-> “Disciplina: o combustível silencioso das maiores vitórias.”
+## 🗝️ Personal Quote  
+> **Discipline: the silent fuel of the greatest victories.**
